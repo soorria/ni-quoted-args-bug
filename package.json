@@ -1,0 +1,12 @@
+{
+  "name": "antfu-ni-nr-args",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "print": "node print-argv.js"
+  },
+  "keywords": [],
+  "author": "Soorria Saruva <soorria.ss@gmail.com> (https://soorria.com/)",
+  "license": "MIT"
+}
